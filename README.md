@@ -1,4 +1,4 @@
-## Olá Jovens!
+## 🐍 A1CANTAR4 no código. Python no sangue. Projetos no github!
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
